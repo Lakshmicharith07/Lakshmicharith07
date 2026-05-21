@@ -29,7 +29,7 @@ When I am not staring at an IDE or debugging stack traces, you can usually find 
 I am always ready to expand my network, collaborate on exciting open-source projects, or just chat about tech, movies.
 
 * **💼 LinkedIn:**](https://www.linkedin.com/in/lakshmi-charith-91694025a/)
-* **📧 Email:** (mailto:laksh.charith@gmail.com)
+* **📧 Email:** (laksh.charith@gmail.com)
 * **💬 Ask me about:** Tech, movie recommendations and much more.
 
 ---
