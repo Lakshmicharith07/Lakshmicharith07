@@ -8,7 +8,7 @@ I am a passionate developer currently focusing on mastering **JAVA**. I love tac
 
 ## 🛠️ Tech Stack & Skills
 
-* **Languages:** Java (Currently deepening my expertise)
+* **Languages:** JAVA, SQL (Currently deepening my expertise)
 * **Interests:** Software Development, Backend & Frontend Engineering, Problem Solving
 * **Soft Skills:** Collaboration, Continuous Learning, Adaptability
 
